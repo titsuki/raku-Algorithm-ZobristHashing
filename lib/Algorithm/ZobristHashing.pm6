@@ -109,4 +109,6 @@ Copyright 2016 okaoka
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
+This algorithm is from Zobrist, Albert L. "A new hashing method with application for game playing." ICCA journal 13.2 (1970): 69-73.
+
 =end pod
