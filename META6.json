@@ -1,6 +1,6 @@
 {
   "name" : "Algorithm::ZobristHashing",
-  "source-url" : "",
+  "source-url" : "git://github.com/okaoka/p6-Algorithm-ZobristHashing.git",
   "perl" : "6.c",
   "resources" : [ ],
   "build-depends" : [ ],
