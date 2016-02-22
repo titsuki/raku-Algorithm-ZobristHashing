@@ -48,7 +48,7 @@ METHODS
     my $status = $zobrist.encode([["a"],["b"],["c"]]); # h(0,"a") xor h(1,"b") xor h(2,"c")
     my $status = $zobrist.encode([["ab"],["c"]]); # h(0,"ab") xor h(1,"c")
 
-Returns the hash value which represents the status of the input sequence. If the input value is the nested array, it flattens this and handles as a 1-dimensional array. If the input value is empty, it returns type object Int.
+Returns the hash value which represents the status of the input sequence. If the input value is the nested array, it flattens this and handles as a 1-dimensional array. If the input value is empty, it returns the type object Int.
 
 ### get(Int $position, Str $type)
 
