@@ -10,7 +10,7 @@
   "depends" : [ ],
   "description" : "a hash function for board games",
   "test-depends" : [ ],
-  "version" : "*",
+  "version" : "0.01",
   "authors" : [
     "okaoka"
   ]
