@@ -56,7 +56,7 @@ Returns the hash value which represents the status of the input sequence. If the
     my $code = $zobrist.get(0,"abc"); # in this case $code == $status
     my $new-code = $zobrist.get(0,"perl"); # assigns a new rand value, since h(0,"perl") is not yet encoded
 
-Returns the Int value which represents the state(i.e position-type pair). If it intends to get the state not yet encoded. It assigns a new rand value to the state and returns this new value.
+Returns the Int value which represents the state(i.e position-type pair). If it intends to get the state not yet encoded, it assigns a new rand value to the state and returns this new value.
 
 AUTHOR
 ======
