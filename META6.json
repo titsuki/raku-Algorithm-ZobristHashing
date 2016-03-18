@@ -10,7 +10,7 @@
   "depends" : [ ],
   "description" : "a hash function for board games",
   "test-depends" : [ ],
-  "version" : "0.01",
+  "version" : "0.02",
   "authors" : [
     "titsuki"
   ]
