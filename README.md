@@ -61,7 +61,7 @@ Returns the Int value which represents the state(i.e position-type pair). If it 
 AUTHOR
 ======
 
-titsuki <cookbook_000@yahoo.co.jp>
+titsuki <titsuki@cpan.org>
 
 COPYRIGHT AND LICENSE
 =====================
