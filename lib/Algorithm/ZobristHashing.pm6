@@ -101,7 +101,7 @@ Returns the Int value which represents the state(i.e position-type pair). If it 
 
 =head1 AUTHOR
 
-titsuki <cookbook_000@yahoo.co.jp>
+titsuki <titsuki@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
