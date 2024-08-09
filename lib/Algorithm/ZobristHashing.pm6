@@ -1,5 +1,5 @@
 use v6;
-unit class Algorithm::ZobristHashing:auth<zef:titsuki>:ver<0.0.5>;
+unit class Algorithm::ZobristHashing:auth<zef:titsuki>:ver<0.0.6>;
 
 has Hash $!table;
 has $!rand-max;
