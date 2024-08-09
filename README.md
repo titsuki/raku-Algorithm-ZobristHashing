@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/titsuki/p6-Algorithm-ZobristHashing.svg?branch=master)](https://travis-ci.org/titsuki/p6-Algorithm-ZobristHashing)
+[![Actions Status](https://github.com/titsuki/raku-Algorithm-ZobristHashing/actions/workflows/test.yml/badge.svg)](https://github.com/titsuki/raku-Algorithm-ZobristHashing/actions)
 
 NAME
 ====
@@ -71,3 +71,4 @@ Copyright 2016 titsuki
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
 This algorithm is from Zobrist, Albert L. "A new hashing method with application for game playing." ICCA journal 13.2 (1970): 69-73.
+

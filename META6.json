@@ -1,18 +1,25 @@
 {
-  "name" : "Algorithm::ZobristHashing",
-  "license" : "Artistic-2.0",
-  "source-url" : "git://github.com/titsuki/p6-Algorithm-ZobristHashing.git",
-  "perl" : "6.c",
-  "resources" : [ ],
-  "build-depends" : [ ],
-  "provides" : {
-    "Algorithm::ZobristHashing" : "lib/Algorithm/ZobristHashing.pm6"
+  "auth": "zef:titsuki",
+  "authors": [
+    "Itsuki Toyota"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "a hash function for board games",
+  "license": "Artistic-2.0",
+  "name": "Algorithm::ZobristHashing",
+  "perl": "6.c",
+  "provides": {
+    "Algorithm::ZobristHashing": "lib/Algorithm/ZobristHashing.pm6"
   },
-  "depends" : [ ],
-  "description" : "a hash function for board games",
-  "test-depends" : [ ],
-  "version" : "0.0.4",
-  "authors" : [
-    "titsuki"
-  ]
+  "resources": [
+  ],
+  "source-url": "https://github.com/titsuki/raku-Algorithm-ZobristHashing.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.4"
 }
